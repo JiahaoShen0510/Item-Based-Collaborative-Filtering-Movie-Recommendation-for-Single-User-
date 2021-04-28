@@ -1,2 +1,1 @@
-# Item-Based-Collaborative-Filtering-Movie-Recommendation-for-Single-User-
-with Pandas Correlation Function
+Based on the dataset of 944 users and 1,664 movies that in the 90s, apply the item-based collaborative filtering approach by relying on Pandas correlation function to make the list of recommendation movies for a test user
